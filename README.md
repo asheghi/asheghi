@@ -11,6 +11,10 @@
 
 #### Attention Worthy Projects
 
+### [TTS]([https://github.com/asheghi/neobase/](https://github.com/asheghi/text-to-speech))
+
+text to speech tool designed to help language learners.
+
 ### [NeoBase](https://github.com/asheghi/neobase/)
 
 NeoBase helps developers build faster and scale further than any other Serverless Platform or App Framework
