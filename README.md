@@ -1,7 +1,7 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working on [NeoBase](https://github.com/asheghi/neobase/)
-- 🌱 I’m currently learning AWS Serverless
+- 🔭 I’m currently working on [TextToSpeech](https://github.com/asheghi/neobase/](https://github.com/asheghi/text-to-speech)
+- 🌱 I’m currently learning Swedish!
 - 👯 I’m looking to collaborate on awesome Node/React.js projects
 - 🤔 I’m looking for new awesome friends
 - 💬 Ask me about JavaScript frameworks
