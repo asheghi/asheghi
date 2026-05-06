@@ -1,13 +1,5 @@
-### Hello there 👋
-
-- 🔭 I’m currently working on [TextToSpeech](https://github.com/asheghi/neobase/](https://github.com/asheghi/text-to-speech)
-- 🌱 I’m currently learning Swedish!
-- 👯 I’m looking to collaborate on awesome Node/React.js projects
-- 🤔 I’m looking for new awesome friends
-- 💬 Ask me about JavaScript frameworks
-- 😄 Pronouns: c(he)
-- ⚡ Fun fact: I stand 200 centimeters tall!
-- 📫 Email address: asheghi.bm@gmail.com
+# Bahman Asheghi 
+## Software Engineer, Full Stack Developer
 
 #### Attention Worthy Projects
 
